@@ -39,6 +39,10 @@ img.large {
     width: 90%;
     max-width: 500px;
 }
+img.banner {
+    max-width: none;
+    width: 90%;
+}
 li {
     list-style-position: inside;
     color: var(--cor5);
